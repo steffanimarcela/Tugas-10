@@ -57,7 +57,7 @@
                 <h4 style="background-color:blueviolet">UTS</h4>
                 <hr>
                 <script>
-                    var uts = [90, 85, 95, 98, 85, 89, 100];
+                    var uts = [85, 85, 80, 80, 85, 89, 95];
                     // looping untuk mencetak semua isi array
                     for (let i = 0; i < uts.length; i++) {
                         document.writeln("<p>" + uts[i] + "</p>");
@@ -68,7 +68,7 @@
                 <h4 style="background-color:blueviolet">UAS</h4>
                 <hr>
                 <script>
-                    var uas = [100, 90, 95, 100, 90, 87, 95];
+                    var uas = [95, 85, 90, 90, 90, 80, 90];
 
                     // looping untuk mencetak semua isi array
                     for (let i = 0; i < uas.length; i++) {
@@ -92,7 +92,7 @@
                 <h4 style="background-color:blueviolet">Tugas</h4>
                 <hr>
                 <script>
-                    var tugas = [95, 85, 80, 90, 85, 85, 95];
+                    var tugas = [90, 85, 80, 90, 85, 80, 75];
 
                     // looping untuk mencetak semua isi array
                     for (let i = 0; i < tugas.length; i++) {
